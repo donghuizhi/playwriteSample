@@ -1,0 +1,22 @@
+{
+  "name": "playwritesample",
+  "version": "1.0.0",
+  "description": "The first repo for playwrite sample",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donghuizhi/playwriteSample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donghuizhi/playwriteSample/issues"
+  },
+  "homepage": "https://github.com/donghuizhi/playwriteSample#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}
